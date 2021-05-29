@@ -1,0 +1,4 @@
+django>=1.9
+djangorestframework>=3.0
+pytz
+py-dateutil
